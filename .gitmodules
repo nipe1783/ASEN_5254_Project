@@ -1,0 +1,3 @@
+[submodule "AMP-Tools-public"]
+	path = AMP-Tools-public
+	url = git@github.com:nipe1783/AMP-Tools-public.git
