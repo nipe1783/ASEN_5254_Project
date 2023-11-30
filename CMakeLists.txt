@@ -14,9 +14,6 @@ include_directories(
     ${PYTHON_INCLUDE_DIRS}
     /usr/local/include/ompl-1.6
     /usr/include/eigen3
-    /home/nic/dev/ASEN_5254/ASEN_5254_Project/AMP-Tools-public/include
-    /home/nic/dev/ASEN_5254/ASEN_5254_Project/AMP-Tools-public/
-    /home/nic/dev/ASEN_5254/AMP-Tools-public/src/public/ScriptCaller.cpp
 )
 
 file(GLOB OMPL-DEMOS RELATIVE ${CMAKE_SOURCE_DIR}/src/ src/*.cpp )

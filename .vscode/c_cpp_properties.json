@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include/eigen3",
-                "/usr/include/python3.10"
+                "/usr/include/python3.10",
+                "/usr/local/include/ompl-1.6"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
